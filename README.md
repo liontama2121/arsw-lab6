@@ -79,7 +79,7 @@
 
 	**A continuación, se crea el directorio donde residirá la aplicación JavaScript en ```src/main/resources/static```, y asimismo, se crea la carpeta js en ese mismo directorio.**
 
-	![img](https://github.com/Skullzo/ARSW-Lab6/blob/main/img/Vistas1.PNG)
+	
 
 2. Cree, en el directorio anterior, la página index.html, sólo con lo básico: título, campo para la captura del autor, botón de 'Get blueprints', campo donde se mostrará el nombre del autor seleccionado, [la tabla HTML](https://www.w3schools.com/html/html_tables.asp) donde se mostrará el listado de planos (con sólo los encabezados), y un campo en donde se mostrará el total de puntos de los planos del autor. Recuerde asociarle identificadores a dichos componentes para facilitar su búsqueda mediante selectores.
 
@@ -243,12 +243,12 @@
    1. Que la página sea accesible desde:
    
 		```
-		http://localhost:8080/index.html
+		http://localhost:8080
 		```
 
 		**Luego de subir la aplicación utilizando el comando ```mvn spring-boot:run```, en el navegador se ingresa la URL: ```http://localhost:8080/index.html```, y al acceder a esa URL se puede visualizar la página creada en HTML.**
 
-		![img](https://github.com/Skullzo/ARSW-Lab6/blob/main/img/Vistas4.1.PNG)
+		
     
    2. Al abrir la consola de desarrollador del navegador, NO deben aparecer mensajes de error 404 (es decir, que las librerías de JavaScript se cargaron correctamente).
 
