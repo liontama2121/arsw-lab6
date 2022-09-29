@@ -1,6 +1,7 @@
 
 ### Escuela Colombiana de Ingeniería
 ### Arquiecturas de Software
+## Juan Camilo Molina Leon 
 
 ## Construción de un cliente 'grueso' con un API REST, HTML5, Javascript y CSS3. Parte I.
 
